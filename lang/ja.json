@@ -9648,7 +9648,7 @@
       "description": "コスモスが咲き、タンポポが風に舞っても。",
       "condition": "賽の河原とコスモス峠で地蔵を見つける",
       "checkbox": {
-        "jizo_sainokawara": " 賽の河原",
+        "jizo_sainokawara": "賽の河原",
         "jizo_fieldofcosmos": "コスモス峠"
       }
     },
