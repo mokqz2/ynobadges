@@ -67,6 +67,7 @@
 * Canio
 * Canto Mk. 6
 * Carbonara
+* CatASI
 * catling
 * Catmat
 * Catsalotl
@@ -162,6 +163,7 @@
 * Kasatate
 * Kazecita
 * Kekwet
+* Kirieshka
 * KitsuneYume
 * klayfruit
 * Kofu
